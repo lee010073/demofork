@@ -6,7 +6,8 @@ Library used:
   - react-chartjs-2, 
   - chart.js,
   - react, 
-  - react-bootstrap bootstrap
+  - react-bootstrap 
+  - bootstrap
 
   Backend:
   - Mongoose
