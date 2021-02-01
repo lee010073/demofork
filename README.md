@@ -4,7 +4,8 @@ Library used:
   Frontend:
   - react-router-dom, 
   - react-chartjs-2, 
-  - chart.js,react, 
+  - chart.js,
+  react, 
   - react-bootstrap bootstrap
 
   Backend:
