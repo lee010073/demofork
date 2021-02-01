@@ -18,6 +18,9 @@ Database trying to use:
 
 Usage:
 - You can check the graphs by clicking different tabs
+- The tree diagram trial for NoSql can be found in src a file named "this is for demofork".pdf
+- Backend.App.js is to tro to use mongoose to deply a database and create a schema for it
+- Node js query code has not been done within this git but i think it will be similar to both nosql and other sql(e.g. Postgresql)
 
 
 Difficulties:
