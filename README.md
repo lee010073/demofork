@@ -5,7 +5,7 @@ Library used:
   - react-router-dom, 
   - react-chartjs-2, 
   - chart.js,
-  react, 
+  - react, 
   - react-bootstrap bootstrap
 
   Backend:
