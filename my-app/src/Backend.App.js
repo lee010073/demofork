@@ -67,7 +67,7 @@ const Inbound_Shipment = mongoose.model("Inbound_shipment", inbound_shipmentSche
 
 //e.g. outbound shipment 1 is being processed to inbound shipment 
 const inbound1 = new Inbound_Shipment({
-    delivered_to_airport: true,
+    delivered_to_warehouse: true,
     repackaged: true,
     stored: true,
     confirmed_inbound_shipment: outbound1
